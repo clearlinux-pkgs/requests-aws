@@ -4,7 +4,7 @@
 #
 Name     : requests-aws
 Version  : 0.1.8
-Release  : 6
+Release  : 7
 URL      : https://pypi.python.org/packages/source/r/requests-aws/requests-aws-0.1.8.tar.gz
 Source0  : https://pypi.python.org/packages/source/r/requests-aws/requests-aws-0.1.8.tar.gz
 Summary  : AWS authentication for Amazon S3 for the python requests module
